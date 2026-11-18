@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Ascensio">
+<title>Ascensio</title>
+<rect width="200" height="200" rx="44" fill="#14263F"/>
+<g transform="translate(54.1,70) scale(0.95)" fill="none" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="#FFFFFF" d="M84,50 A42,42 0 1 0 0,50 A42,42 0 1 0 84,50 M84,8 V92"/>
+  <path stroke="#C9A04E" d="M24,-22 L48,-44 L72,-22"/>
+</g>
+</svg>

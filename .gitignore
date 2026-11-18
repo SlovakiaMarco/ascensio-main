@@ -1,0 +1,14 @@
+# Záloha celého projektu (história je v gite)
+Ascensio Main.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Lokálne nastavenia Claude Code
+.claude/settings.local.json
+
+# Systémové súbory
+Thumbs.db
+desktop.ini
+.DS_Store

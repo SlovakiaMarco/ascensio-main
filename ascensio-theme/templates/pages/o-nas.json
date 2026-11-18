@@ -1,0 +1,1031 @@
+{
+ "key": "o-nas",
+ "title": "O nás",
+ "slug": "o-nas",
+ "seo": "Ascensio – slovenská firma zo Starej Ľubovne, od roku 1998 zamestnáva remeselníkov na projektoch v západnej Európe.",
+ "order": 3,
+ "elementor": [
+  {
+   "id": "a46abbc",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "88",
+     "right": "24",
+     "bottom": "88",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "56",
+     "right": "20",
+     "bottom": "56",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#14263F",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "asc-s asc-s--navy asc-s--pattern asc-pagehero",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "c3f109f",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 18,
+       "column": "18",
+       "row": "18",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-pagehero__inner"
+     },
+     "elements": [
+      {
+       "id": "37b4af2",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "O nás",
+        "header_size": "div",
+        "_css_classes": "asc-eyebrow asc-eyebrow--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "3295be4",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Od roku 1998 staviame na ľuďoch",
+        "header_size": "h1",
+        "_css_classes": "asc-pagehero__title"
+       },
+       "elements": []
+      },
+      {
+       "id": "582955f",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "isInner": false,
+       "settings": {
+        "editor": "<p>Ascensio je slovenská firma zo Starej Ľubovne, ktorá zamestnáva remeselníkov na stavebných projektoch v západnej Európe. Dnes máme tím viac ako 450 ľudí.</p>",
+        "_css_classes": "asc-lead asc-lead--light"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2ffbb74",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascwhite"
+    },
+    "css_classes": "asc-s",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "f3a9173",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "row",
+      "flex_direction_tablet": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 64,
+       "column": "64",
+       "row": "64",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "flex_align_items": "center"
+     },
+     "elements": [
+      {
+       "id": "1566196",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 52,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "2453757",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Kto sme",
+          "header_size": "div",
+          "_css_classes": "asc-eyebrow"
+         },
+         "elements": []
+        },
+        {
+         "id": "5d37c25",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Stabilná práca v zahraničí s férovým prístupom",
+          "header_size": "h2"
+         },
+         "elements": []
+        },
+        {
+         "id": "727b3ca",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Sme firma s dlhoročnou tradíciou, ktorá ponúka stabilné a dobre platené pracovné miesta v zahraničí. Naši zamestnanci pracujú na projektoch v západnej Európe a ročne spolu odpracujeme viac ako 650&nbsp;000 hodín.</p><p>Veríme, že spokojní zamestnanci sú základom úspechu. Preto poskytujeme férové podmienky, profesionálny prístup a kompletný servis – ubytovanie, kvalitné náradie, firemné auto aj pracovné oblečenie.</p>"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "810c224",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 48,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "ba71280",
+         "elType": "widget",
+         "widgetType": "image",
+         "isInner": false,
+         "settings": {
+          "image": {
+           "url": "{{img}}/foto-tim.svg",
+           "id": "",
+           "alt": "Tím Ascensio na projekte",
+           "source": "library"
+          },
+          "image_size": "full",
+          "_css_classes": "asc-img asc-img--frame"
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aee57fd",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "56",
+     "right": "24",
+     "bottom": "56",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "40",
+     "right": "20",
+     "bottom": "40",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F5F2EB",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascsand"
+    },
+    "css_classes": "asc-s asc-s--sand asc-stats",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "a895973",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 24,
+       "column": "24",
+       "row": "24",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-2 asc-stats__grid"
+     },
+     "elements": [
+      {
+       "id": "17e693f",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 1998,
+        "suffix": "",
+        "title": "rok založenia",
+        "duration": 1800,
+        "thousand_separator": "",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "e25c966",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 450,
+        "suffix": "+",
+        "title": "zamestnancov",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "999f6fb",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 350,
+        "suffix": "+",
+        "title": "dokončených projektov",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "5695276",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 650000,
+        "suffix": "+",
+        "title": "odpracovaných hodín ročne",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f49e5f3",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascwhite"
+    },
+    "css_classes": "asc-s",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "25d53fa",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 14,
+       "column": "14",
+       "row": "14",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-head-center"
+     },
+     "elements": [
+      {
+       "id": "1b46b9e",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Naše hodnoty",
+        "header_size": "div",
+        "align": "center",
+        "_css_classes": "asc-eyebrow"
+       },
+       "elements": []
+      },
+      {
+       "id": "704dc58",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Na čom nám záleží",
+        "header_size": "h2",
+        "align": "center"
+       },
+       "elements": []
+      }
+     ]
+    },
+    {
+     "id": "2d56ef3",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 20,
+       "column": "20",
+       "row": "20",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-1"
+     },
+     "elements": [
+      {
+       "id": "a1b869a",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-balance-scale",
+         "library": "fa-solid"
+        },
+        "title_text": "Férovosť",
+        "description_text": "Jasné podmienky dohodnuté vopred, bez prekvapení.",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-value"
+       },
+       "elements": []
+      },
+      {
+       "id": "ee4a754",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-handshake",
+         "library": "fa-solid"
+        },
+        "title_text": "Spoľahlivosť",
+        "description_text": "Čo sľúbime, to dodržíme – zamestnancom aj partnerom.",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-value"
+       },
+       "elements": []
+      },
+      {
+       "id": "f616ac4",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-hands-helping",
+         "library": "fa-solid"
+        },
+        "title_text": "Starostlivosť",
+        "description_text": "Postaráme sa o bývanie, dopravu aj vybavenie.",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-value"
+       },
+       "elements": []
+      },
+      {
+       "id": "9089449",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-award",
+         "library": "fa-solid"
+        },
+        "title_text": "Kvalita",
+        "description_text": "Skúsení remeselníci a profesionálne náradie na každej stavbe.",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-value"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95ee330",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#14263F",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "asc-s asc-s--navy asc-s--pattern",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "8591c95",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "row",
+      "flex_direction_tablet": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 48,
+       "column": "48",
+       "row": "48",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "flex_align_items": "center"
+     },
+     "elements": [
+      {
+       "id": "497fce1",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 55,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "45e4d58",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Pridaj sa k nám",
+          "header_size": "h2"
+         },
+         "elements": []
+        },
+        {
+         "id": "dd624e6",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Hľadáme ľudí, ktorí chcú poctivo pracovať a dobre zarobiť. O zvyšok sa postaráme my.</p>",
+          "_css_classes": "asc-lead asc-lead--light"
+         },
+         "elements": []
+        },
+        {
+         "id": "7a90dda",
+         "elType": "container",
+         "isInner": true,
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "row",
+          "flex_gap": {
+           "unit": "px",
+           "size": 12,
+           "column": "12",
+           "row": "12",
+           "isLinked": true
+          },
+          "padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": true
+          },
+          "flex_wrap": "wrap",
+          "css_classes": "asc-btnrow"
+         },
+         "elements": [
+          {
+           "id": "0ab2c7b",
+           "elType": "widget",
+           "widgetType": "button",
+           "isInner": false,
+           "settings": {
+            "text": "Pracovné ponuky",
+            "link": {
+             "url": "{{page:pracovne-ponuky}}",
+             "is_external": "",
+             "nofollow": ""
+            },
+            "size": "lg",
+            "selected_icon": {
+             "value": "fas fa-arrow-right",
+             "library": "fa-solid"
+            },
+            "icon_align": "row-reverse",
+            "_css_classes": "asc-ebtn asc-ebtn--gold asc-ebtn--icon-end"
+           },
+           "elements": []
+          },
+          {
+           "id": "5f04972",
+           "elType": "widget",
+           "widgetType": "button",
+           "isInner": false,
+           "settings": {
+            "text": "Poslať prihlášku",
+            "link": {
+             "url": "{{page:prihlaska}}",
+             "is_external": "",
+             "nofollow": ""
+            },
+            "size": "lg",
+            "_css_classes": "asc-ebtn asc-ebtn--outline-light"
+           },
+           "elements": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "a29f82b",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "ffa1266",
+         "elType": "container",
+         "isInner": true,
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_gap": {
+           "unit": "px",
+           "size": 12,
+           "column": "12",
+           "row": "12",
+           "isLinked": true
+          },
+          "padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": true
+          },
+          "css_classes": "asc-card asc-card--glass"
+         },
+         "elements": [
+          {
+           "id": "58f3a29",
+           "elType": "widget",
+           "widgetType": "heading",
+           "isInner": false,
+           "settings": {
+            "title": "Sídlo spoločnosti",
+            "header_size": "h3",
+            "_css_classes": "asc-h4"
+           },
+           "elements": []
+          },
+          {
+           "id": "df96859",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "isInner": false,
+           "settings": {
+            "editor": "<p><strong>AS-SPOL, s.r.o.</strong><br>Továrenská 1471/7<br>064 01 Stará Ľubovňa</p>"
+           },
+           "elements": []
+          },
+          {
+           "id": "200c3e1",
+           "elType": "widget",
+           "widgetType": "icon-list",
+           "isInner": false,
+           "settings": {
+            "icon_list": [
+             {
+              "_id": "4fc7926",
+              "text": "{{phone}}",
+              "selected_icon": {
+               "value": "fas fa-phone-alt",
+               "library": "fa-solid"
+              },
+              "link": {
+               "url": "{{tel}}",
+               "is_external": "",
+               "nofollow": ""
+              }
+             },
+             {
+              "_id": "37cdbf2",
+              "text": "{{email}}",
+              "selected_icon": {
+               "value": "fas fa-envelope",
+               "library": "fa-solid"
+              },
+              "link": {
+               "url": "mailto:{{email}}",
+               "is_external": "",
+               "nofollow": ""
+              }
+             }
+            ],
+            "_css_classes": "asc-contactlist"
+           },
+           "elements": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

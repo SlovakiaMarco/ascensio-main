@@ -1,0 +1,21 @@
+/* Minimalna emulacia zakladnych stylov Elementoru pre nahlad */
+.e-con{display:flex;flex-direction:column;box-sizing:border-box;position:relative;min-width:0;width:100%;flex-shrink:1}
+.e-con-boxed>.e-con-inner{width:100%;max-width:1200px;margin:0 auto}
+.e-con>.elementor-widget,.e-con-inner>.elementor-widget{max-width:100%;min-width:0}
+.e-con.e-flex[style],.e-con{ }
+.elementor-heading-title{margin:0;padding:0;line-height:1}
+.elementor-widget-text-editor p{margin:0 0 1em}
+.elementor-button{display:inline-block;line-height:1;text-align:center}
+.elementor-button-wrapper{display:block}
+.elementor-align-right{text-align:right}
+.elementor-icon-list-items{list-style:none;margin:0;padding:0}
+.elementor-icon-list-item{display:flex;align-items:center}
+.elementor-icon-list-item a{display:flex;align-items:center}
+.elementor-inline-items{display:flex;flex-wrap:wrap}
+.elementor-icon{display:inline-block;line-height:1}
+.elementor-icon-box-title{margin:0}
+.elementor-counter-number-wrapper{display:flex}
+.elementor-accordion-item{border:1px solid #d5d8dc}
+.elementor-tab-title{padding:15px 20px}
+.elementor-widget-image img{max-width:100%;height:auto}
+.e-con>.e-con,.e-con-inner>.e-con{flex-shrink:1}

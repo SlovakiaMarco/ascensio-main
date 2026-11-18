@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ascensio – návrh zjednodušeného loga</title>
+<link rel="stylesheet" href="https://fonts.bunny.net/css?family=archivo:700,800|inter:400,500,600&display=swap">
+<style>
+:root{--navy:#14263F;--gold:#C9A04E;--sand:#F5F2EB;--line:#E5DFD2;--muted:#5F6B7C}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,sans-serif;color:#334155;background:#fff;line-height:1.6}
+.wrap{max-width:1100px;margin:0 auto;padding:56px 24px 80px}
+h1,h2,h3{font-family:Archivo,system-ui,sans-serif;color:#0F1B2D;letter-spacing:-.02em;line-height:1.15}
+h1{font-size:clamp(2rem,1.4rem + 2vw,2.8rem);margin:0 0 12px}
+h2{font-size:1.5rem;margin:56px 0 18px}
+p.lead{font-size:1.15rem;color:var(--muted);max-width:760px;margin:0}
+.eyebrow{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#8B6B25;margin-bottom:10px}
+.compare{display:grid;grid-template-columns:1fr auto 1fr;gap:20px;align-items:stretch;margin-top:32px}
+.card{border:1px solid var(--line);border-radius:18px;padding:28px;display:flex;flex-direction:column;gap:14px;background:#fff}
+.card .stage{height:180px;border-radius:12px;background:var(--sand);display:flex;align-items:center;justify-content:center;padding:20px}
+.card .stage img{max-width:100%;max-height:120px}
+.card h3{margin:0;font-size:1.1rem}
+.card ul{margin:0;padding-left:18px;font-size:15px}
+.arrow{display:flex;align-items:center;font-size:32px;color:var(--gold)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.tile{border-radius:16px;border:1px solid var(--line);padding:24px;display:flex;flex-direction:column;gap:12px;align-items:flex-start}
+.tile .stage{height:110px;width:100%;display:flex;align-items:center;justify-content:center;border-radius:10px}
+.tile .stage img{max-height:64px;max-width:90%}
+.tile small{color:var(--muted)}
+.dark{background:var(--navy)}
+.sand{background:var(--sand)}
+.sizes{display:flex;gap:28px;align-items:flex-end;flex-wrap:wrap;padding:24px;border:1px solid var(--line);border-radius:16px}
+.sizes figure{margin:0;display:flex;flex-direction:column;gap:8px;align-items:flex-start}
+.sizes figcaption{font-size:13px;color:var(--muted)}
+.swatches{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px}
+.sw{border-radius:14px;overflow:hidden;border:1px solid var(--line)}
+.sw div{height:90px}
+.sw p{margin:0;padding:12px 14px;font-size:14px}
+.sw strong{display:block;color:#0F1B2D}
+.why{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.why div{background:var(--sand);border-radius:14px;padding:20px}
+.why strong{display:block;font-family:Archivo,sans-serif;color:#0F1B2D;margin-bottom:6px}
+code{background:var(--sand);padding:2px 6px;border-radius:6px;font-size:.9em}
+@media (max-width:760px){.compare{grid-template-columns:1fr}.arrow{justify-content:center;transform:rotate(90deg)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+	<div class="eyebrow">Ascensio · návrh</div>
+	<h1>Zjednodušené logo Ascensio</h1>
+	<p class="lead">Zachovali sme to, čo je na značke rozpoznateľné – zaoblené písmo, zlatú a tmavomodrú farbu. Odstránili sme to, čo komplikuje použitie: tenký ťah, dve farby v slove a podtitul „holding“. Nový prvok je zlatá šípka nad „i“ – <em>ascensio</em> znamená po latinsky <em>vzostup</em>.</p>
+
+	<div class="compare">
+		<div class="card">
+			<div class="stage"><img src="https://static.wixstatic.com/media/ce63fa_5eab4a29bb5440be8b96c9b3054630de~mv2.png" alt="Súčasné logo Ascensio Holding"></div>
+			<h3>Súčasné logo</h3>
+			<ul>
+				<li>veľmi tenký ťah – v malej veľkosti (mobil, favicon) sa stráca</li>
+				<li>dvojfarebné slovo + podtitul „holding“ = 3 prvky naraz</li>
+				<li>„holding“ je pre uchádzačov o prácu nepodstatný</li>
+			</ul>
+		</div>
+		<div class="arrow">→</div>
+		<div class="card">
+			<div class="stage"><img src="ascensio-logo.svg" alt="Nové logo Ascensio"></div>
+			<h3>Nový návrh</h3>
+			<ul>
+				<li>rovnaký zaoblený charakter, ale 2,5× hrubší ťah</li>
+				<li>jedna farba slova + jeden zlatý akcent (šípka nahor)</li>
+				<li>čitateľné od 16 px po billboard, funguje aj jednofarebne</li>
+			</ul>
+		</div>
+	</div>
+
+	<h2>Varianty</h2>
+	<div class="grid">
+		<div class="tile"><div class="stage" style="border:1px solid var(--line)"><img src="ascensio-logo.svg" alt=""></div><strong>Hlavné logo</strong><small><code>ascensio-logo.svg</code> – na svetlé pozadie</small></div>
+		<div class="tile"><div class="stage dark"><img src="ascensio-logo-white.svg" alt=""></div><strong>Inverzné logo</strong><small><code>ascensio-logo-white.svg</code> – na tmavé pozadie, pätička</small></div>
+		<div class="tile"><div class="stage" style="border:1px solid var(--line)"><img src="ascensio-logo-dvojfarebne.svg" alt=""></div><strong>Prechodový variant</strong><small><code>ascensio-logo-dvojfarebne.svg</code> – zachováva zlaté „as“ z pôvodného loga</small></div>
+		<div class="tile"><div class="stage" style="border:1px solid var(--line)"><img src="ascensio-logo-holding.svg" alt=""></div><strong>S „holding“</strong><small><code>ascensio-logo-holding.svg</code> – iba pre zmluvy a oficiálne dokumenty</small></div>
+		<div class="tile"><div class="stage" style="border:1px solid var(--line)"><img src="ascensio-logo-mono-navy.svg" alt=""></div><strong>Jednofarebné</strong><small><code>ascensio-logo-mono-navy.svg</code> – razítka, potlač, výšivka</small></div>
+		<div class="tile"><div class="stage sand"><img src="ascensio-ikona.svg" alt="" style="max-height:80px"> &nbsp; <img src="ascensio-ikona-zlata.svg" alt="" style="max-height:80px"></div><strong>Ikona</strong><small><code>ascensio-ikona.svg</code> – favicon, profilová fotka na sociálnych sieťach</small></div>
+	</div>
+
+	<h2>Čitateľnosť v malých veľkostiach</h2>
+	<div class="sizes">
+		<figure><img src="ascensio-logo.svg" style="height:56px" alt=""><figcaption>web – hlavička</figcaption></figure>
+		<figure><img src="ascensio-logo.svg" style="height:28px" alt=""><figcaption>mobil</figcaption></figure>
+		<figure><img src="ascensio-logo.svg" style="height:16px" alt=""><figcaption>podpis e-mailu</figcaption></figure>
+		<figure><img src="ascensio-ikona.svg" style="height:32px" alt=""><figcaption>favicon 32 px</figcaption></figure>
+		<figure><img src="ascensio-ikona.svg" style="height:16px" alt=""><figcaption>16 px</figcaption></figure>
+	</div>
+
+	<h2>Farby značky</h2>
+	<div class="swatches">
+		<div class="sw"><div style="background:#14263F"></div><p><strong>Navy</strong>#14263F · hlavná farba</p></div>
+		<div class="sw"><div style="background:#C9A04E"></div><p><strong>Zlatá</strong>#C9A04E · akcent, tlačidlá</p></div>
+		<div class="sw"><div style="background:#0C1A2E"></div><p><strong>Tmavá navy</strong>#0C1A2E · pätička</p></div>
+		<div class="sw"><div style="background:#F5F2EB"></div><p><strong>Piesková</strong>#F5F2EB · pozadie sekcií</p></div>
+		<div class="sw"><div style="background:#8B6B25"></div><p><strong>Tmavá zlatá</strong>#8B6B25 · zlatý text na bielom</p></div>
+	</div>
+	<p style="font-size:14px;color:var(--muted);margin-top:14px">Písma webu: <strong>Archivo</strong> (nadpisy) a <strong>Inter</strong> (text) – obe bezplatné, s plnou podporou slovenskej diakritiky.</p>
+
+	<h2>Prečo takto</h2>
+	<div class="why">
+		<div><strong>Kontinuita</strong>Zaoblené tvary písmen a farby ostávajú – ľudia, ktorí Ascensio poznajú, značku spoznajú.</div>
+		<div><strong>Čitateľnosť</strong>Hrubší ťah obstojí na mobile, na tričku, na aute aj ako malá ikona na Facebooku či TikToku.</div>
+		<div><strong>Význam</strong>Zlatá šípka nahor = vzostup, kariérny rast; zároveň pripomína strechu – odkaz na stavebníctvo.</div>
+		<div><strong>Jednoduchosť</strong>Jedno slovo, jedna farba, jeden akcent. Funguje aj jednofarebne bez straty identity.</div>
+	</div>
+	<p style="font-size:14px;color:var(--muted);margin-top:28px">Poznámka: ide o pracovný návrh. Pred tlačou (vizitky, polepy áut, oblečenie) odporúčame dať logo grafikovi previesť do krivkových súborov (AI/PDF) a doladiť optické medzery medzi písmenami.</p>
+</div>
+</body>
+</html>

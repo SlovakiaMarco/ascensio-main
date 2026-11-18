@@ -1,0 +1,1644 @@
+{
+ "key": "pour-les-entreprises",
+ "title": "Pour les entreprises",
+ "slug": "pour-les-entreprises",
+ "seo": "Des artisans qualifiés de Slovaquie pour vos chantiers en France – transport, hébergement et outillage inclus.",
+ "order": 6,
+ "elementor": [
+  {
+   "id": "5099079",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "56",
+     "right": "20",
+     "bottom": "56",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#14263F",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "asc-s asc-s--navy asc-s--pattern asc-pagehero asc-pagehero--b2b",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "030be9b",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 18,
+       "column": "18",
+       "row": "18",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-pagehero__inner asc-pagehero__inner--wide"
+     },
+     "elements": [
+      {
+       "id": "91af842",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Pour les entreprises et partenaires",
+        "header_size": "div",
+        "_css_classes": "asc-eyebrow asc-eyebrow--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "7dacb6c",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Des artisans qualifiés pour vos chantiers",
+        "header_size": "h1",
+        "_css_classes": "asc-pagehero__title"
+       },
+       "elements": []
+      },
+      {
+       "id": "68f4870",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "isInner": false,
+       "settings": {
+        "editor": "<p>Depuis 1998, Ascensio met à disposition des monteurs, électriciens, soudeurs et autres professionnels expérimentés pour les entreprises du bâtiment en Allemagne et en France. Nous gérons le transport, l’hébergement et l’outillage – vous vous concentrez sur votre projet.</p>",
+        "_css_classes": "asc-lead asc-lead--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "b7efebe",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "row",
+        "flex_gap": {
+         "unit": "px",
+         "size": 12,
+         "column": "12",
+         "row": "12",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "flex_wrap": "wrap",
+        "css_classes": "asc-btnrow"
+       },
+       "elements": [
+        {
+         "id": "a78f33c",
+         "elType": "widget",
+         "widgetType": "button",
+         "isInner": false,
+         "settings": {
+          "text": "Demande sans engagement",
+          "link": {
+           "url": "#dopyt",
+           "is_external": "",
+           "nofollow": ""
+          },
+          "size": "lg",
+          "selected_icon": {
+           "value": "fas fa-arrow-right",
+           "library": "fa-solid"
+          },
+          "icon_align": "row-reverse",
+          "_css_classes": "asc-ebtn asc-ebtn--gold asc-ebtn--icon-end"
+         },
+         "elements": []
+        },
+        {
+         "id": "957a265",
+         "elType": "widget",
+         "widgetType": "button",
+         "isInner": false,
+         "settings": {
+          "text": "Appeler {{phone}}",
+          "link": {
+           "url": "{{tel}}",
+           "is_external": "",
+           "nofollow": ""
+          },
+          "size": "lg",
+          "selected_icon": {
+           "value": "fas fa-phone-alt",
+           "library": "fa-solid"
+          },
+          "_css_classes": "asc-ebtn asc-ebtn--outline-light"
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8898c3f",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "48",
+     "right": "24",
+     "bottom": "48",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "20",
+     "bottom": "36",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascwhite"
+    },
+    "css_classes": "asc-s asc-stats",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "48d8a9b",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 24,
+       "column": "24",
+       "row": "24",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-2 asc-stats__grid"
+     },
+     "elements": [
+      {
+       "id": "c45b55f",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 1998,
+        "suffix": "",
+        "title": "Année de création",
+        "duration": 1800,
+        "thousand_separator": "",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "93e5377",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 450,
+        "suffix": "+",
+        "title": "collaborateurs",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "7d95cd8",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 350,
+        "suffix": "+",
+        "title": "projets réalisés",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "8f158cb",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 650000,
+        "suffix": "+",
+        "title": "heures travaillées par an",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "42036e9",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F5F2EB",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascsand"
+    },
+    "css_classes": "asc-s asc-s--sand",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "6331dfc",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 14,
+       "column": "14",
+       "row": "14",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-head-center"
+     },
+     "elements": [
+      {
+       "id": "3cce8d7",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Métiers",
+        "header_size": "div",
+        "align": "center",
+        "_css_classes": "asc-eyebrow"
+       },
+       "elements": []
+      },
+      {
+       "id": "64057a0",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Nos corps de métier",
+        "header_size": "h2",
+        "align": "center"
+       },
+       "elements": []
+      }
+     ]
+    },
+    {
+     "id": "e66b95e",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 8,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 20,
+       "column": "20",
+       "row": "20",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-1"
+     },
+     "elements": [
+      {
+       "id": "3d2da59",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-tools",
+         "library": "fa-solid"
+        },
+        "title_text": "Montage",
+        "description_text": "Structures, équipements et installations",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "ebe5270",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-bolt",
+         "library": "fa-solid"
+        },
+        "title_text": "Électricité",
+        "description_text": "Réseaux et systèmes dans les bâtiments",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "31235ec",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-faucet",
+         "library": "fa-solid"
+        },
+        "title_text": "Plomberie",
+        "description_text": "Eau, évacuation, sanitaires",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "e5cdf5e",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-fire",
+         "library": "fa-solid"
+        },
+        "title_text": "Soudure",
+        "description_text": "Structures et composants métalliques",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "1d80081",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-border-all",
+         "library": "fa-solid"
+        },
+        "title_text": "Plâtrerie – plaques de plâtre",
+        "description_text": "Cloisons, doublages et plafonds",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "c118b75",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-cubes",
+         "library": "fa-solid"
+        },
+        "title_text": "Béton et coffrage",
+        "description_text": "Coffrage, bétonnage, préfabrication",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "8d121dd",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-paint-roller",
+         "library": "fa-solid"
+        },
+        "title_text": "Peinture",
+        "description_text": "Peintures, enduits et finitions",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "09421a1",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-plus",
+         "library": "fa-solid"
+        },
+        "title_text": "Autres métiers sur demande",
+        "description_text": "Contactez-nous",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "300cd32",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascwhite"
+    },
+    "css_classes": "asc-s",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "d551a09",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "row",
+      "flex_direction_tablet": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 56,
+       "column": "56",
+       "row": "56",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "04245a8",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 14,
+         "column": "14",
+         "row": "14",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 34,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "flex_align_items": "flex-start"
+       },
+       "elements": [
+        {
+         "id": "dedd3a0",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Service complet",
+          "header_size": "div",
+          "_css_classes": "asc-eyebrow"
+         },
+         "elements": []
+        },
+        {
+         "id": "505ecf6",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Ce que nous prenons en charge",
+          "header_size": "h2"
+         },
+         "elements": []
+        },
+        {
+         "id": "b9469ba",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Nos équipes arrivent prêtes à travailler. Nous organisons la logistique et l’équipement – pour que vous n’ayez pas à le faire.</p>",
+          "_css_classes": "asc-lead"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "4124f70",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 66,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "748010d",
+         "elType": "container",
+         "isInner": true,
+         "settings": {
+          "container_type": "grid",
+          "content_width": "full",
+          "grid_columns_grid": {
+           "unit": "fr",
+           "size": 2,
+           "sizes": []
+          },
+          "grid_columns_grid_tablet": {
+           "unit": "fr",
+           "size": 2,
+           "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+           "unit": "fr",
+           "size": 1,
+           "sizes": []
+          },
+          "grid_rows_grid": {
+           "unit": "fr",
+           "size": 3,
+           "sizes": []
+          },
+          "grid_rows_grid_tablet": {
+           "unit": "fr",
+           "size": 3,
+           "sizes": []
+          },
+          "grid_rows_grid_mobile": {
+           "unit": "fr",
+           "size": 6,
+           "sizes": []
+          },
+          "grid_gaps": {
+           "unit": "px",
+           "size": 20,
+           "column": "20",
+           "row": "20",
+           "isLinked": true
+          },
+          "grid_auto_flow": "row",
+          "padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": true
+          },
+          "css_classes": "asc-grid asc-cols-2 asc-cols-t-2 asc-cols-m-1"
+         },
+         "elements": [
+          {
+           "id": "e0b70fa",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-users",
+             "library": "fa-solid"
+            },
+            "title_text": "Équipes ou renforts",
+            "description_text": "Des artisans individuels ou des équipes complètes.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "c61750e",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-shuttle-van",
+             "library": "fa-solid"
+            },
+            "title_text": "Véhicules propres",
+            "description_text": "Nos collaborateurs arrivent en véhicules de société.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "1155315",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-bed",
+             "library": "fa-solid"
+            },
+            "title_text": "Hébergement",
+            "description_text": "Nous organisons nous-mêmes l’hébergement de nos équipes.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "fa56053",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-toolbox",
+             "library": "fa-solid"
+            },
+            "title_text": "Outillage professionnel",
+            "description_text": "Milwaukee et Hilti – l’équipe arrive entièrement équipée.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "e25d32d",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-hard-hat",
+             "library": "fa-solid"
+            },
+            "title_text": "Tenues et EPI",
+            "description_text": "Équipement conforme aux règles de sécurité.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "456f216",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-headset",
+             "library": "fa-solid"
+            },
+            "title_text": "Un interlocuteur unique",
+            "description_text": "Planification et communication via un seul contact.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "229786d",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#14263F",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "asc-s asc-s--navy",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "82cc4f2",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 14,
+       "column": "14",
+       "row": "14",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-head-center"
+     },
+     "elements": [
+      {
+       "id": "cab6b8e",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Collaboration",
+        "header_size": "div",
+        "align": "center",
+        "_css_classes": "asc-eyebrow asc-eyebrow--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "4ef5de8",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Comment nous travaillons",
+        "header_size": "h2",
+        "align": "center"
+       },
+       "elements": []
+      }
+     ]
+    },
+    {
+     "id": "360c32c",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 20,
+       "column": "20",
+       "row": "20",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-1 asc-steps"
+     },
+     "elements": [
+      {
+       "id": "05f439b",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "86b64f8",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "01",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "a014483",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Demande",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "b37756e",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Indiquez-nous les métiers, l’effectif, le lieu et la période.</p>"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "d5db023",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "1187221",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "02",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "17e8837",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Proposition",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "1a5c2f0",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Nous préparons une proposition d’équipe et un devis.</p>"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "a2d5624",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "4974758",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "03",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "f266cde",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Mise en place",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "a271b61",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>L’équipe arrive avec ses véhicules et son outillage.</p>"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "3f8783f",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "ae30bc8",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "04",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "b4eb59f",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Suivi",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "e317533",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Nous restons en contact et gérons tout le nécessaire.</p>"
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b307cd5",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F5F2EB",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascsand"
+    },
+    "css_classes": "asc-s asc-s--sand",
+    "_element_id": "dopyt",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "fc50b72",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "row",
+      "flex_direction_tablet": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 56,
+       "column": "56",
+       "row": "56",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "900ed15",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 40,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "flex_align_items": "flex-start"
+       },
+       "elements": [
+        {
+         "id": "1997393",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Contact",
+          "header_size": "div",
+          "_css_classes": "asc-eyebrow"
+         },
+         "elements": []
+        },
+        {
+         "id": "741a140",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Demande sans engagement",
+          "header_size": "h2"
+         },
+         "elements": []
+        },
+        {
+         "id": "438fdae",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Dites-nous de quels professionnels vous avez besoin. Nous revenons vers vous avec une proposition.</p>",
+          "_css_classes": "asc-lead"
+         },
+         "elements": []
+        },
+        {
+         "id": "823703e",
+         "elType": "widget",
+         "widgetType": "icon-list",
+         "isInner": false,
+         "settings": {
+          "icon_list": [
+           {
+            "_id": "5573586",
+            "text": "{{phone}}",
+            "selected_icon": {
+             "value": "fas fa-phone-alt",
+             "library": "fa-solid"
+            },
+            "link": {
+             "url": "{{tel}}",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "05fc310",
+            "text": "{{email}}",
+            "selected_icon": {
+             "value": "fas fa-envelope",
+             "library": "fa-solid"
+            },
+            "link": {
+             "url": "mailto:{{email}}",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "7657a42",
+            "text": "AS-SPOL, s.r.o., Továrenská 1471/7, 064 01 Stará Ľubovňa, Slovakia",
+            "selected_icon": {
+             "value": "fas fa-map-marker-alt",
+             "library": "fa-solid"
+            }
+           }
+          ],
+          "_css_classes": "asc-contactlist"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "2bd8737",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 60,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "7708b22",
+         "elType": "widget",
+         "widgetType": "asc-apply",
+         "isInner": false,
+         "settings": {
+          "variant": "partner",
+          "title": "Demande de personnel",
+          "subtitle": "",
+          "button_text": "Envoyer la demande",
+          "lang": "fr",
+          "theme": "light",
+          "_css_classes": "asc-formcard"
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

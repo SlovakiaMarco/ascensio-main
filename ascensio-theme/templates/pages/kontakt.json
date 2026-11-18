@@ -1,0 +1,592 @@
+{
+ "key": "kontakt",
+ "title": "Kontakt",
+ "slug": "kontakt",
+ "seo": "Kontakt na Ascensio: telefón, e-mail, sídlo v Starej Ľubovni a formulár pre uchádzačov aj firmy.",
+ "order": 7,
+ "elementor": [
+  {
+   "id": "aecf656",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "88",
+     "right": "24",
+     "bottom": "88",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "56",
+     "right": "20",
+     "bottom": "56",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#14263F",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "asc-s asc-s--navy asc-s--pattern asc-pagehero",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "2ce87f1",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 18,
+       "column": "18",
+       "row": "18",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-pagehero__inner"
+     },
+     "elements": [
+      {
+       "id": "62beb8c",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Kontakt",
+        "header_size": "div",
+        "_css_classes": "asc-eyebrow asc-eyebrow--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "bb38730",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Sme tu pre teba",
+        "header_size": "h1",
+        "_css_classes": "asc-pagehero__title"
+       },
+       "elements": []
+      },
+      {
+       "id": "b68acea",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "isInner": false,
+       "settings": {
+        "editor": "<p>Máš otázku k pracovnej ponuke alebo chceš rovno nastúpiť? Zavolaj, napíš alebo vyplň formulár.</p>",
+        "_css_classes": "asc-lead asc-lead--light"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eef8a1d",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "64",
+     "right": "24",
+     "bottom": "64",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "40",
+     "right": "20",
+     "bottom": "40",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascwhite"
+    },
+    "css_classes": "asc-s",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "d24b926",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 3,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 3,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 3,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 20,
+       "column": "20",
+       "row": "20",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-3 asc-cols-t-1 asc-cols-m-1"
+     },
+     "elements": [
+      {
+       "id": "92adfaf",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-phone-alt",
+         "library": "fa-solid"
+        },
+        "title_text": "Zavolaj nám",
+        "description_text": "{{phone}}",
+        "title_size": "h3",
+        "text_align": "start",
+        "link": {
+         "url": "{{tel}}",
+         "is_external": "",
+         "nofollow": ""
+        },
+        "_css_classes": "asc-iconcard asc-contactcard"
+       },
+       "elements": []
+      },
+      {
+       "id": "dd8bdb1",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-envelope",
+         "library": "fa-solid"
+        },
+        "title_text": "Napíš nám",
+        "description_text": "{{email}}",
+        "title_size": "h3",
+        "text_align": "start",
+        "link": {
+         "url": "mailto:{{email}}",
+         "is_external": "",
+         "nofollow": ""
+        },
+        "_css_classes": "asc-iconcard asc-contactcard"
+       },
+       "elements": []
+      },
+      {
+       "id": "d29f60c",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-map-marker-alt",
+         "library": "fa-solid"
+        },
+        "title_text": "Sídlo firmy",
+        "description_text": "AS-SPOL, s.r.o., Továrenská 1471/7, 064 01 Stará Ľubovňa",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-contactcard"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8960b24",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F5F2EB",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascsand"
+    },
+    "css_classes": "asc-s asc-s--sand",
+    "_element_id": "formular",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "9fd0972",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "row",
+      "flex_direction_tablet": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "1ca6d40",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 55,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "75b029b",
+         "elType": "widget",
+         "widgetType": "asc-apply",
+         "isInner": false,
+         "settings": {
+          "variant": "full",
+          "title": "Napíš nám",
+          "subtitle": "Polia označené * sú povinné.",
+          "button_text": "Odoslať správu",
+          "lang": "sk",
+          "theme": "light",
+          "_css_classes": "asc-formcard"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "6d69ea2",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "808af9c",
+         "elType": "widget",
+         "widgetType": "google_maps",
+         "isInner": false,
+         "settings": {
+          "address": "Továrenská 1471/7, 064 01 Stará Ľubovňa",
+          "zoom": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "height": {
+           "unit": "px",
+           "size": 380,
+           "sizes": []
+          },
+          "_css_classes": "asc-map"
+         },
+         "elements": []
+        },
+        {
+         "id": "9d31358",
+         "elType": "container",
+         "isInner": true,
+         "settings": {
+          "content_width": "full",
+          "flex_direction": "column",
+          "flex_gap": {
+           "unit": "px",
+           "size": 10,
+           "column": "10",
+           "row": "10",
+           "isLinked": true
+          },
+          "padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": true
+          },
+          "css_classes": "asc-card asc-card--plain"
+         },
+         "elements": [
+          {
+           "id": "eb4a182",
+           "elType": "widget",
+           "widgetType": "heading",
+           "isInner": false,
+           "settings": {
+            "title": "Ste firma?",
+            "header_size": "h3",
+            "_css_classes": "asc-h4"
+           },
+           "elements": []
+          },
+          {
+           "id": "7652f53",
+           "elType": "widget",
+           "widgetType": "text-editor",
+           "isInner": false,
+           "settings": {
+            "editor": "<p>Pre partnerov a klientov máme samostatnú stránku s informáciami o spolupráci.</p>"
+           },
+           "elements": []
+          },
+          {
+           "id": "deeeb03",
+           "elType": "container",
+           "isInner": true,
+           "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+             "unit": "px",
+             "size": 8,
+             "column": "8",
+             "row": "8",
+             "isLinked": true
+            },
+            "padding": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "0",
+             "left": "0",
+             "isLinked": true
+            },
+            "flex_wrap": "wrap"
+           },
+           "elements": [
+            {
+             "id": "d2c0764",
+             "elType": "widget",
+             "widgetType": "button",
+             "isInner": false,
+             "settings": {
+              "text": "Pre firmy",
+              "link": {
+               "url": "{{page:pre-firmy}}",
+               "is_external": "",
+               "nofollow": ""
+              },
+              "size": "sm",
+              "_css_classes": "asc-ebtn asc-ebtn--navy"
+             },
+             "elements": []
+            },
+            {
+             "id": "36e30c9",
+             "elType": "widget",
+             "widgetType": "button",
+             "isInner": false,
+             "settings": {
+              "text": "Deutsch",
+              "link": {
+               "url": "{{page:fur-unternehmen}}",
+               "is_external": "",
+               "nofollow": ""
+              },
+              "size": "sm",
+              "_css_classes": "asc-ebtn asc-ebtn--outline"
+             },
+             "elements": []
+            },
+            {
+             "id": "3647b7a",
+             "elType": "widget",
+             "widgetType": "button",
+             "isInner": false,
+             "settings": {
+              "text": "Français",
+              "link": {
+               "url": "{{page:pour-les-entreprises}}",
+               "is_external": "",
+               "nofollow": ""
+              },
+              "size": "sm",
+              "_css_classes": "asc-ebtn asc-ebtn--outline"
+             },
+             "elements": []
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

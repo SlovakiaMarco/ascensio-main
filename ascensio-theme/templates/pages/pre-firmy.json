@@ -1,0 +1,1644 @@
+{
+ "key": "pre-firmy",
+ "title": "Pre firmy",
+ "slug": "pre-firmy",
+ "seo": "Kvalifikovaní remeselníci pre stavebné projekty v Nemecku a Francúzsku – vrátane dopravy, ubytovania a náradia.",
+ "order": 4,
+ "elementor": [
+  {
+   "id": "80f330c",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "56",
+     "right": "20",
+     "bottom": "56",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#14263F",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "asc-s asc-s--navy asc-s--pattern asc-pagehero asc-pagehero--b2b",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "83588a3",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 18,
+       "column": "18",
+       "row": "18",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-pagehero__inner asc-pagehero__inner--wide"
+     },
+     "elements": [
+      {
+       "id": "700de61",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Pre firmy a partnerov",
+        "header_size": "div",
+        "_css_classes": "asc-eyebrow asc-eyebrow--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "5a35696",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Kvalifikovaní remeselníci pre vaše stavebné projekty",
+        "header_size": "h1",
+        "_css_classes": "asc-pagehero__title"
+       },
+       "elements": []
+      },
+      {
+       "id": "b0a0387",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "isInner": false,
+       "settings": {
+        "editor": "<p>Ascensio od roku 1998 dodáva skúsených montérov, elektrikárov, zváračov a ďalších odborníkov pre stavebné firmy v Nemecku a vo Francúzsku. Dopravu, ubytovanie aj náradie zabezpečíme my – vy sa sústredíte na projekt.</p>",
+        "_css_classes": "asc-lead asc-lead--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "63357e5",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "row",
+        "flex_gap": {
+         "unit": "px",
+         "size": 12,
+         "column": "12",
+         "row": "12",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "flex_wrap": "wrap",
+        "css_classes": "asc-btnrow"
+       },
+       "elements": [
+        {
+         "id": "8a227b0",
+         "elType": "widget",
+         "widgetType": "button",
+         "isInner": false,
+         "settings": {
+          "text": "Nezáväzný dopyt",
+          "link": {
+           "url": "#dopyt",
+           "is_external": "",
+           "nofollow": ""
+          },
+          "size": "lg",
+          "selected_icon": {
+           "value": "fas fa-arrow-right",
+           "library": "fa-solid"
+          },
+          "icon_align": "row-reverse",
+          "_css_classes": "asc-ebtn asc-ebtn--gold asc-ebtn--icon-end"
+         },
+         "elements": []
+        },
+        {
+         "id": "2bfc654",
+         "elType": "widget",
+         "widgetType": "button",
+         "isInner": false,
+         "settings": {
+          "text": "Zavolať {{phone}}",
+          "link": {
+           "url": "{{tel}}",
+           "is_external": "",
+           "nofollow": ""
+          },
+          "size": "lg",
+          "selected_icon": {
+           "value": "fas fa-phone-alt",
+           "library": "fa-solid"
+          },
+          "_css_classes": "asc-ebtn asc-ebtn--outline-light"
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8abf980",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "48",
+     "right": "24",
+     "bottom": "48",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "36",
+     "right": "20",
+     "bottom": "36",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascwhite"
+    },
+    "css_classes": "asc-s asc-stats",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "55c06b7",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 24,
+       "column": "24",
+       "row": "24",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-2 asc-stats__grid"
+     },
+     "elements": [
+      {
+       "id": "20d9433",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 1998,
+        "suffix": "",
+        "title": "rok založenia",
+        "duration": 1800,
+        "thousand_separator": "",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "45f97cf",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 450,
+        "suffix": "+",
+        "title": "zamestnancov",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "7882405",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 350,
+        "suffix": "+",
+        "title": "dokončených projektov",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      },
+      {
+       "id": "8989853",
+       "elType": "widget",
+       "widgetType": "counter",
+       "isInner": false,
+       "settings": {
+        "starting_number": 0,
+        "ending_number": 650000,
+        "suffix": "+",
+        "title": "odpracovaných hodín ročne",
+        "duration": 1800,
+        "thousand_separator": "yes",
+        "thousand_separator_char": " ",
+        "_css_classes": "asc-counter"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c4a2a01",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F5F2EB",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascsand"
+    },
+    "css_classes": "asc-s asc-s--sand",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "304f158",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 14,
+       "column": "14",
+       "row": "14",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-head-center"
+     },
+     "elements": [
+      {
+       "id": "2a1aab2",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Profesie",
+        "header_size": "div",
+        "align": "center",
+        "_css_classes": "asc-eyebrow"
+       },
+       "elements": []
+      },
+      {
+       "id": "e1996b5",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Koho vám vieme dodať",
+        "header_size": "h2",
+        "align": "center"
+       },
+       "elements": []
+      }
+     ]
+    },
+    {
+     "id": "e96d462",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 8,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 20,
+       "column": "20",
+       "row": "20",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-1"
+     },
+     "elements": [
+      {
+       "id": "551e123",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-tools",
+         "library": "fa-solid"
+        },
+        "title_text": "Montáž",
+        "description_text": "Konštrukcie, zariadenia a technológie",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "058758c",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-bolt",
+         "library": "fa-solid"
+        },
+        "title_text": "Elektroinštalácie",
+        "description_text": "Rozvody a systémy v budovách",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "ea556d9",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-faucet",
+         "library": "fa-solid"
+        },
+        "title_text": "Vodoinštalácie",
+        "description_text": "Vodovod, kanalizácia, sanita",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "0ce93d7",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-fire",
+         "library": "fa-solid"
+        },
+        "title_text": "Zváranie",
+        "description_text": "Kovové konštrukcie a komponenty",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "0fa2abf",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-border-all",
+         "library": "fa-solid"
+        },
+        "title_text": "Sadrokartón",
+        "description_text": "Steny, priečky a podhľady",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "7526218",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-cubes",
+         "library": "fa-solid"
+        },
+        "title_text": "Betonárske práce",
+        "description_text": "Debnenie, betonáž, prefabrikáty",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "0cbc8e8",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-paint-roller",
+         "library": "fa-solid"
+        },
+        "title_text": "Maliarske práce",
+        "description_text": "Nátery, stierky a povrchové úpravy",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      },
+      {
+       "id": "097f9a1",
+       "elType": "widget",
+       "widgetType": "icon-box",
+       "isInner": false,
+       "settings": {
+        "selected_icon": {
+         "value": "fas fa-plus",
+         "library": "fa-solid"
+        },
+        "title_text": "Ďalšie profesie na požiadanie",
+        "description_text": "Napíšte nám, čo potrebujete",
+        "title_size": "h3",
+        "text_align": "start",
+        "_css_classes": "asc-iconcard asc-trade"
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efe6f9b",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascwhite"
+    },
+    "css_classes": "asc-s",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "4382a01",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "row",
+      "flex_direction_tablet": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 56,
+       "column": "56",
+       "row": "56",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "8ad751e",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 14,
+         "column": "14",
+         "row": "14",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 34,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "flex_align_items": "flex-start"
+       },
+       "elements": [
+        {
+         "id": "84a2dde",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Kompletný servis",
+          "header_size": "div",
+          "_css_classes": "asc-eyebrow"
+         },
+         "elements": []
+        },
+        {
+         "id": "b8e745a",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Čo pre vás zabezpečíme",
+          "header_size": "h2"
+         },
+         "elements": []
+        },
+        {
+         "id": "8be88a1",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Naši ľudia prichádzajú pripravení. Logistiku a vybavenie riešime sami, aby ste vy nemuseli.</p>",
+          "_css_classes": "asc-lead"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "7fadff7",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 66,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "c91158d",
+         "elType": "container",
+         "isInner": true,
+         "settings": {
+          "container_type": "grid",
+          "content_width": "full",
+          "grid_columns_grid": {
+           "unit": "fr",
+           "size": 2,
+           "sizes": []
+          },
+          "grid_columns_grid_tablet": {
+           "unit": "fr",
+           "size": 2,
+           "sizes": []
+          },
+          "grid_columns_grid_mobile": {
+           "unit": "fr",
+           "size": 1,
+           "sizes": []
+          },
+          "grid_rows_grid": {
+           "unit": "fr",
+           "size": 3,
+           "sizes": []
+          },
+          "grid_rows_grid_tablet": {
+           "unit": "fr",
+           "size": 3,
+           "sizes": []
+          },
+          "grid_rows_grid_mobile": {
+           "unit": "fr",
+           "size": 6,
+           "sizes": []
+          },
+          "grid_gaps": {
+           "unit": "px",
+           "size": 20,
+           "column": "20",
+           "row": "20",
+           "isLinked": true
+          },
+          "grid_auto_flow": "row",
+          "padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": true
+          },
+          "css_classes": "asc-grid asc-cols-2 asc-cols-t-2 asc-cols-m-1"
+         },
+         "elements": [
+          {
+           "id": "5e1f979",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-users",
+             "library": "fa-solid"
+            },
+            "title_text": "Tímy aj jednotlivci",
+            "description_text": "Dodáme jednotlivých remeselníkov alebo celé pracovné skupiny.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "b8d5a25",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-shuttle-van",
+             "library": "fa-solid"
+            },
+            "title_text": "Vlastná doprava",
+            "description_text": "Pracovníci prichádzajú na stavbu firemnými vozidlami.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "795c0d4",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-bed",
+             "library": "fa-solid"
+            },
+            "title_text": "Ubytovanie",
+            "description_text": "Ubytovanie našich ľudí organizujeme sami.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "b5fa62c",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-toolbox",
+             "library": "fa-solid"
+            },
+            "title_text": "Profesionálne náradie",
+            "description_text": "Milwaukee a Hilti – tím prichádza plne vybavený.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "5cb064b",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-hard-hat",
+             "library": "fa-solid"
+            },
+            "title_text": "Oblečenie a ochranné pomôcky",
+            "description_text": "Vybavenie v súlade s bezpečnostnými predpismi.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          },
+          {
+           "id": "541695e",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "isInner": false,
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-headset",
+             "library": "fa-solid"
+            },
+            "title_text": "Jeden kontakt",
+            "description_text": "Plánovanie a komunikácia cez jednu kontaktnú osobu.",
+            "title_size": "h3",
+            "text_align": "start",
+            "position": "inline-start",
+            "_css_classes": "asc-iconcard asc-benefit asc-benefit--row"
+           },
+           "elements": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6141c78",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#14263F",
+    "__globals__": {
+     "background_color": "globals/colors?id=primary"
+    },
+    "css_classes": "asc-s asc-s--navy",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "3a9dd8b",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 14,
+       "column": "14",
+       "row": "14",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-head-center"
+     },
+     "elements": [
+      {
+       "id": "7a24f42",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Spolupráca",
+        "header_size": "div",
+        "align": "center",
+        "_css_classes": "asc-eyebrow asc-eyebrow--light"
+       },
+       "elements": []
+      },
+      {
+       "id": "b6459db",
+       "elType": "widget",
+       "widgetType": "heading",
+       "isInner": false,
+       "settings": {
+        "title": "Ako spolupracujeme",
+        "header_size": "h2",
+        "align": "center"
+       },
+       "elements": []
+      }
+     ]
+    },
+    {
+     "id": "7655ff2",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "container_type": "grid",
+      "content_width": "full",
+      "grid_columns_grid": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_columns_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_columns_grid_mobile": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid": {
+       "unit": "fr",
+       "size": 1,
+       "sizes": []
+      },
+      "grid_rows_grid_tablet": {
+       "unit": "fr",
+       "size": 2,
+       "sizes": []
+      },
+      "grid_rows_grid_mobile": {
+       "unit": "fr",
+       "size": 4,
+       "sizes": []
+      },
+      "grid_gaps": {
+       "unit": "px",
+       "size": 20,
+       "column": "20",
+       "row": "20",
+       "isLinked": true
+      },
+      "grid_auto_flow": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "css_classes": "asc-grid asc-cols-4 asc-cols-t-2 asc-cols-m-1 asc-steps"
+     },
+     "elements": [
+      {
+       "id": "389b144",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "d2c5ce8",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "01",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "5fddf22",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Dopyt",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "984ca5f",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Pošlete nám profesie, počet ľudí, miesto a termín.</p>"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "bfc92b4",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "5a22c46",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "02",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "34bb832",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Ponuka",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "507cad9",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Pripravíme návrh tímu a cenovú ponuku.</p>"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "6a6ad00",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "b8c72b6",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "03",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "46d4534",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Nasadenie",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "64f3cd1",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Tím príde na stavbu s vlastnou dopravou a náradím.</p>"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "8236dd9",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 8,
+         "column": "8",
+         "row": "8",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "css_classes": "asc-step asc-step--dark"
+       },
+       "elements": [
+        {
+         "id": "c26601f",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "04",
+          "header_size": "div",
+          "_css_classes": "asc-step__num"
+         },
+         "elements": []
+        },
+        {
+         "id": "004add0",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Starostlivosť",
+          "header_size": "h3"
+         },
+         "elements": []
+        },
+        {
+         "id": "c7ae927",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Priebežne komunikujeme a riešime všetko potrebné.</p>"
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0a3d128",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "content_width": "boxed",
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40",
+     "isLinked": true
+    },
+    "padding": {
+     "unit": "px",
+     "top": "96",
+     "right": "24",
+     "bottom": "96",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F5F2EB",
+    "__globals__": {
+     "background_color": "globals/colors?id=ascsand"
+    },
+    "css_classes": "asc-s asc-s--sand",
+    "_element_id": "dopyt",
+    "html_tag": "section"
+   },
+   "elements": [
+    {
+     "id": "ef01ffd",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "content_width": "full",
+      "flex_direction": "row",
+      "flex_direction_tablet": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 56,
+       "column": "56",
+       "row": "56",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "c75ec73",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 40,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "flex_align_items": "flex-start"
+       },
+       "elements": [
+        {
+         "id": "2d1f324",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Kontakt",
+          "header_size": "div",
+          "_css_classes": "asc-eyebrow"
+         },
+         "elements": []
+        },
+        {
+         "id": "bd20e7e",
+         "elType": "widget",
+         "widgetType": "heading",
+         "isInner": false,
+         "settings": {
+          "title": "Nezáväzný dopyt",
+          "header_size": "h2"
+         },
+         "elements": []
+        },
+        {
+         "id": "4c3930e",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "isInner": false,
+         "settings": {
+          "editor": "<p>Napíšte nám, akých pracovníkov potrebujete. Ozveme sa vám s návrhom riešenia.</p>",
+          "_css_classes": "asc-lead"
+         },
+         "elements": []
+        },
+        {
+         "id": "a30a56c",
+         "elType": "widget",
+         "widgetType": "icon-list",
+         "isInner": false,
+         "settings": {
+          "icon_list": [
+           {
+            "_id": "95768ac",
+            "text": "{{phone}}",
+            "selected_icon": {
+             "value": "fas fa-phone-alt",
+             "library": "fa-solid"
+            },
+            "link": {
+             "url": "{{tel}}",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "136d3e4",
+            "text": "{{email}}",
+            "selected_icon": {
+             "value": "fas fa-envelope",
+             "library": "fa-solid"
+            },
+            "link": {
+             "url": "mailto:{{email}}",
+             "is_external": "",
+             "nofollow": ""
+            }
+           },
+           {
+            "_id": "6c81f19",
+            "text": "AS-SPOL, s.r.o., Továrenská 1471/7, 064 01 Stará Ľubovňa, Slovakia",
+            "selected_icon": {
+             "value": "fas fa-map-marker-alt",
+             "library": "fa-solid"
+            }
+           }
+          ],
+          "_css_classes": "asc-contactlist"
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "a44d5bc",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 60,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        }
+       },
+       "elements": [
+        {
+         "id": "1f1e7d6",
+         "elType": "widget",
+         "widgetType": "asc-apply",
+         "isInner": false,
+         "settings": {
+          "variant": "partner",
+          "title": "Dopyt na pracovníkov",
+          "subtitle": "",
+          "button_text": "Odoslať dopyt",
+          "lang": "sk",
+          "theme": "light",
+          "_css_classes": "asc-formcard"
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

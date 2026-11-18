@@ -1,0 +1,51 @@
+{
+ "asc_trade": [
+  {
+   "slug": "monter",
+   "name": "Montér",
+   "icon": "tools"
+  },
+  {
+   "slug": "elektrikar",
+   "name": "Elektrikár",
+   "icon": "bolt"
+  },
+  {
+   "slug": "vodar",
+   "name": "Vodár – inštalatér",
+   "icon": "faucet"
+  },
+  {
+   "slug": "zvarac",
+   "name": "Zvárač",
+   "icon": "fire"
+  },
+  {
+   "slug": "sadrokartonista",
+   "name": "Sadrokartonista",
+   "icon": "border-all"
+  },
+  {
+   "slug": "betonar",
+   "name": "Betonár",
+   "icon": "cubes"
+  },
+  {
+   "slug": "maliar",
+   "name": "Maliar",
+   "icon": "paint-roller"
+  }
+ ],
+ "asc_country": [
+  {
+   "slug": "nemecko",
+   "name": "Nemecko",
+   "code": "DE"
+  },
+  {
+   "slug": "francuzsko",
+   "name": "Francúzsko",
+   "code": "FR"
+  }
+ ]
+}

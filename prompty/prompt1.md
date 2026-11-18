@@ -1,0 +1,5 @@
+### **Čo treba zmeniť:**
+
+* Text
+* 
+
